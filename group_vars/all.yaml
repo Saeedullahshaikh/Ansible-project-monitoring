@@ -1,0 +1,5 @@
+smtp_sever: "smtp.gmail.com"
+smtp_port: 587
+email_user: "your email user"
+email_pass: "your email pass"
+alert_recepient: "your recepient"
